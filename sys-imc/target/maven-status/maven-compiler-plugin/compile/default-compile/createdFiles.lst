@@ -1,0 +1,5 @@
+org\sysimc\Main.class
+module-info.class
+org\sysimc\controller\MainController.class
+org\sysimc\Launcher.class
+org\sysimc\utils\PathFXML.class
